@@ -1,0 +1,5 @@
+$icon-spacing: 10px;
+$icon-layout: 'vertical'; // vertical horizontal smart diagonal
+
+@import 'icon/*.png';
+@include all-icon-sprites;
